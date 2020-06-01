@@ -1,0 +1,165 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Valid Login Scenario",
+    "children" : [ {
+      "name" : "Check login and logout successfully",
+      "children" : [ {
+        "name" : "pages.LoginPageTest",
+        "children" : [ {
+          "name" : "signIn",
+          "uid" : "d978a415e3d59213",
+          "parentUid" : "f234588c9b3788bf4c30680f4f069d94",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675028624,
+            "stop" : 1590675031032,
+            "duration" : 2408
+          },
+          "flaky" : false,
+          "parameters" : [ "{Status=, Message=, Password=Test12345, UserName=anand.maurya@ram.co.za}" ]
+        } ],
+        "uid" : "f234588c9b3788bf4c30680f4f069d94"
+      }, {
+        "name" : "pages.TestPageConsinment",
+        "children" : [ {
+          "name" : "doStarted",
+          "uid" : "8a72dec829251ee3",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675034119,
+            "stop" : 1590675090090,
+            "duration" : 55971
+          },
+          "flaky" : false,
+          "parameters" : [ "{BilledTo=CELW01, ConsignmentID=UAT31230915}" ]
+        }, {
+          "name" : "commudityValidation",
+          "uid" : "3e623cf69e7f0db4",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675090530,
+            "stop" : 1590675105006,
+            "duration" : 14476
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "selectCommudityJwellery",
+          "uid" : "df8b87ac16b7db25",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675105410,
+            "stop" : 1590675112447,
+            "duration" : 7037
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "thirdStepReciever",
+          "uid" : "8e7eccfbbbb4d4c0",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675112906,
+            "stop" : 1590675152226,
+            "duration" : 39320
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickOnStepValue",
+          "uid" : "7cb7254ea18078f8",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675152635,
+            "stop" : 1590675179136,
+            "duration" : 26501
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickOnStepRequirement",
+          "uid" : "c13a9e2c9c699487",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675179525,
+            "stop" : 1590675196465,
+            "duration" : 16940
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickOnStepServices",
+          "uid" : "a58e0ea6566682f3",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675196871,
+            "stop" : 1590675204214,
+            "duration" : 7343
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickonstepParcel",
+          "uid" : "123e004ea7ff8e01",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675204604,
+            "stop" : 1590675210948,
+            "duration" : 6344
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "entertxtNumberOfParcel",
+          "uid" : "f2c1b394cda475a9",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675211353,
+            "stop" : 1590675219910,
+            "duration" : 8557
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "entertxtSecuritypack",
+          "uid" : "87584b9ba424a124",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675220374,
+            "stop" : 1590675230131,
+            "duration" : 9757
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickONFinaliseButton",
+          "uid" : "bafbff515b170032",
+          "parentUid" : "f8502666326e07f6f7e89a7db8e68f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590675230548,
+            "stop" : 1590675249231,
+            "duration" : 18683
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f8502666326e07f6f7e89a7db8e68f28"
+      } ],
+      "uid" : "f6bcb0d98f188bcfb354b39525a88164"
+    } ],
+    "uid" : "fe4d95c12e534531b8e7bd33717318fb"
+  } ]
+}

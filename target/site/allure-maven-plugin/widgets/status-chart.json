@@ -1,0 +1,121 @@
+[ {
+  "uid" : "df8b87ac16b7db25",
+  "name" : "selectCommudityJwellery",
+  "time" : {
+    "start" : 1590675105410,
+    "stop" : 1590675112447,
+    "duration" : 7037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bafbff515b170032",
+  "name" : "clickONFinaliseButton",
+  "time" : {
+    "start" : 1590675230548,
+    "stop" : 1590675249231,
+    "duration" : 18683
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e623cf69e7f0db4",
+  "name" : "commudityValidation",
+  "time" : {
+    "start" : 1590675090530,
+    "stop" : 1590675105006,
+    "duration" : 14476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87584b9ba424a124",
+  "name" : "entertxtSecuritypack",
+  "time" : {
+    "start" : 1590675220374,
+    "stop" : 1590675230131,
+    "duration" : 9757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a72dec829251ee3",
+  "name" : "doStarted",
+  "time" : {
+    "start" : 1590675034119,
+    "stop" : 1590675090090,
+    "duration" : 55971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e7eccfbbbb4d4c0",
+  "name" : "thirdStepReciever",
+  "time" : {
+    "start" : 1590675112906,
+    "stop" : 1590675152226,
+    "duration" : 39320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c13a9e2c9c699487",
+  "name" : "clickOnStepRequirement",
+  "time" : {
+    "start" : 1590675179525,
+    "stop" : 1590675196465,
+    "duration" : 16940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "123e004ea7ff8e01",
+  "name" : "clickonstepParcel",
+  "time" : {
+    "start" : 1590675204604,
+    "stop" : 1590675210948,
+    "duration" : 6344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cb7254ea18078f8",
+  "name" : "clickOnStepValue",
+  "time" : {
+    "start" : 1590675152635,
+    "stop" : 1590675179136,
+    "duration" : 26501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d978a415e3d59213",
+  "name" : "signIn",
+  "time" : {
+    "start" : 1590675028624,
+    "stop" : 1590675031032,
+    "duration" : 2408
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f2c1b394cda475a9",
+  "name" : "entertxtNumberOfParcel",
+  "time" : {
+    "start" : 1590675211353,
+    "stop" : 1590675219910,
+    "duration" : 8557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a58e0ea6566682f3",
+  "name" : "clickOnStepServices",
+  "time" : {
+    "start" : 1590675196871,
+    "stop" : 1590675204214,
+    "duration" : 7343
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,53 @@
+2020-05-26/10:56:38.110  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/10:56:38.230  INFO: wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-05-26/10:56:40.050  INFO: wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+2020-05-26/10:56:43.142  INFO: wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2020-05-26/10:56:43.439  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/10:56:56.127  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/10:56:59.177  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-26/14:26:05.971  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/14:26:06.039  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/14:26:13.375  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/14:26:16.629  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-26/14:26:40.874 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:26:42.227 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:27:43.784 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:27:44.154 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:28:23.493 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:28:23.873 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:28:50.083 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:28:50.468 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:07.303 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:07.687 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:15.054 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:15.426 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:21.727 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:22.090 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:30.722 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:31.094 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:40.752 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:41.135 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:59.281 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/14:29:59.648 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-26/16:45:43.101  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/16:45:43.191  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/16:45:50.045  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/16:45:55.254  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-26/16:48:09.359  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/16:48:09.425  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/16:48:16.732  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/16:48:22.345  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-26/16:50:06.036  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/16:50:06.110  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/16:50:13.220  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/17:25:38.897  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/17:25:38.958  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/17:25:45.334  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/17:25:53.657  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-26/17:28:05.092  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/17:28:05.193  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/17:28:12.688  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/20:48:56.184  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-05-26/20:48:56.275  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-26/20:49:03.460  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-26/20:49:12.499  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/

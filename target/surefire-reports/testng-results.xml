@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="14" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-28T19:44:14 IST" name="Functional and Regression Testing" finished-at="2020-05-28T19:44:14 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Functional and Regression Testing -->
+  <suite started-at="2020-05-28T19:40:22 IST" name="Valid Login Scenario" finished-at="2020-05-28T19:44:09 IST" duration-ms="227557">
+    <groups>
+    </groups>
+    <test started-at="2020-05-28T19:40:22 IST" name="Check login and logout successfully" finished-at="2020-05-28T19:44:09 IST" duration-ms="227557">
+      <class name="pages.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.LoginPageTest@5eb2172]" started-at="2020-05-28T19:39:56 IST" name="setUp" finished-at="2020-05-28T19:40:22 IST" duration-ms="25318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signIn(java.util.Map)[pri:0, instance:pages.LoginPageTest@5eb2172]" started-at="2020-05-28T19:40:28 IST" name="signIn" data-provider="ValidLogin" finished-at="2020-05-28T19:40:31 IST" duration-ms="2663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Status=, Message=, Password=Test12345, UserName=anand.maurya@ram.co.za}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="tearBrowser()[pri:0, instance:pages.LoginPageTest@5eb2172]" started-at="2020-05-28T19:44:09 IST" name="tearBrowser" finished-at="2020-05-28T19:44:11 IST" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearBrowser -->
+      </class> <!-- pages.LoginPageTest -->
+      <class name="pages.TestPageConsinment">
+        <test-method signature="doStarted(java.util.Map)[pri:0, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:40:34 IST" name="doStarted" data-provider="consignment" finished-at="2020-05-28T19:41:30 IST" duration-ms="56006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{BilledTo=CELW01, ConsignmentID=UAT31230915}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doStarted -->
+        <test-method signature="commudityValidation()[pri:1, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:41:30 IST" name="commudityValidation" finished-at="2020-05-28T19:41:45 IST" duration-ms="14484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commudityValidation -->
+        <test-method signature="selectCommudityJwellery()[pri:2, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:41:45 IST" name="selectCommudityJwellery" finished-at="2020-05-28T19:41:52 IST" duration-ms="7043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCommudityJwellery -->
+        <test-method signature="thirdStepReciever()[pri:3, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:41:52 IST" name="thirdStepReciever" finished-at="2020-05-28T19:42:32 IST" duration-ms="39326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdStepReciever -->
+        <test-method signature="clickOnStepValue()[pri:4, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:42:32 IST" name="clickOnStepValue" finished-at="2020-05-28T19:42:59 IST" duration-ms="26507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStepValue -->
+        <test-method signature="clickOnStepRequirement()[pri:5, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:42:59 IST" name="clickOnStepRequirement" finished-at="2020-05-28T19:43:16 IST" duration-ms="16945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStepRequirement -->
+        <test-method signature="clickOnStepServices()[pri:6, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:43:16 IST" name="clickOnStepServices" finished-at="2020-05-28T19:43:24 IST" duration-ms="7350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStepServices -->
+        <test-method signature="clickonstepParcel()[pri:7, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:43:24 IST" name="clickonstepParcel" finished-at="2020-05-28T19:43:30 IST" duration-ms="6350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonstepParcel -->
+        <test-method signature="entertxtNumberOfParcel()[pri:8, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:43:31 IST" name="entertxtNumberOfParcel" finished-at="2020-05-28T19:43:39 IST" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entertxtNumberOfParcel -->
+        <test-method signature="entertxtSecuritypack()[pri:9, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:43:40 IST" name="entertxtSecuritypack" finished-at="2020-05-28T19:43:50 IST" duration-ms="9762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entertxtSecuritypack -->
+        <test-method signature="clickONFinaliseButton()[pri:10, instance:pages.TestPageConsinment@41ffaeb8]" started-at="2020-05-28T19:43:50 IST" name="clickONFinaliseButton" finished-at="2020-05-28T19:44:09 IST" duration-ms="18686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickONFinaliseButton -->
+      </class> <!-- pages.TestPageConsinment -->
+    </test> <!-- Check login and logout successfully -->
+  </suite> <!-- Valid Login Scenario -->
+</testng-results>

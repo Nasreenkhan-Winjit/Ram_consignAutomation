@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Check login and logout successfully"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="211.020">
+    <properties></properties>
+
+
+
+            <testcase
+                name="clickONFinaliseButton"
+                time="18.686"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="entertxtNumberOfParcel"
+                time="8.561"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="clickOnStepServices"
+                time="7.350"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="clickonstepParcel"
+                time="6.350"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="thirdStepReciever"
+                time="39.326"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="clickOnStepRequirement"
+                time="16.945"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="entertxtSecuritypack"
+                time="9.762"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="doStarted"
+                time="56.006"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="selectCommudityJwellery"
+                time="7.043"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="clickOnStepValue"
+                time="26.507"
+                classname="pages.TestPageConsinment">
+            </testcase>
+            <testcase
+                name="commudityValidation"
+                time="14.484"
+                classname="pages.TestPageConsinment">
+            </testcase>
+</testsuite>

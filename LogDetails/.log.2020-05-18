@@ -1,0 +1,416 @@
+2020-05-18/08:10:04.837  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:10:05.157  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:10:11.500  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:10:11.515  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:12:03.647  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:12:03.704  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:12:09.013  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:12:09.031  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:12:47.038 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:12:47.467 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:13:31.135 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:13:31.536 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:14:08.995  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:14:09.042  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:14:13.924  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:14:13.942  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:16:53.167  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:16:53.237  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:16:58.472  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:16:58.490  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:21:14.862  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:21:14.925  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:21:19.539  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:21:19.557  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:21:55.895 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:21:56.329 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:23:12.414 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:24:10.248  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:24:10.302  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:24:15.399  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:24:15.420  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:25:34.141  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:25:34.194  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:25:38.377  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:25:38.393  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:26:04.115 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:26:04.576 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:26:31.284 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:26:31.660 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/08:28:38.224  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:28:38.275  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:28:42.990  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:28:43.009  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/08:54:39.011  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/08:54:39.068  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/08:54:43.701  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/08:54:43.717  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:01:39.908  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:01:39.970  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:01:44.043  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:01:44.058  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:02:07.242 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:02:07.705 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:02:45.587 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:02:45.925 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:04:45.995  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:04:46.050  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:04:50.693  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:04:50.707  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:05:11.227 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:05:11.627 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:05:50.546 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:05:50.955 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:06:30.395  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:06:30.446  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:06:35.428  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:06:35.449  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:08:48.900  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:08:48.955  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:08:53.107  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:08:53.125  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:09:09.482 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:09:09.892 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:09:50.991 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:09:51.351 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:11:15.116  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:11:15.168  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:11:19.252  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:11:19.271  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:21:10.179  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:21:10.238  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:21:14.465  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:21:14.483  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:21:31.440 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:21:31.901 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:23:13.844 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:23:50.264  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:23:50.316  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:23:54.664  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:23:54.682  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:25:25.984  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:25:26.038  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:25:30.921  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:25:30.986  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:26:01.605 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:26:02.000 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:26:55.580 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:26:56.042 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:27:08.187  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:27:08.239  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:27:13.000  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:27:13.021  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:27:32.637 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:27:33.025 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:29:10.018 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:29:28.851  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:29:28.908  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:29:33.929  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:29:33.947  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:33:02.458  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:33:02.530  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:33:07.253  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:33:07.270  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:35:33.865  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:35:33.920  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:35:38.734  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:35:38.751  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:35:56.680 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:35:57.097 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:36:59.857  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:36:59.885  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:37:05.797  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:37:05.816  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:38:31.056  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:38:31.112  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:38:35.203  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:38:35.222  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:38:52.216 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:38:52.645 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:39:29.367  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:39:29.431  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:39:34.583  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:39:34.601  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:41:34.939  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:41:35.001  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:41:39.301  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:41:39.318  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:42:12.047 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:42:12.508 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:43:00.931 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:43:01.347 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:44:17.189  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:44:17.247  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:44:21.443  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:44:21.464  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:44:55.557 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:44:56.017 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:45:35.231 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:45:35.592 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:46:06.688  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:46:06.738  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:46:10.970  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:46:12.336  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/09:46:26.859 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:46:27.278 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:46:57.077 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:46:57.502 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:48:08.236  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:48:08.298  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:48:12.588  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:48:13.921  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/09:48:31.558 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:48:31.957 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:49:08.568 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:49:08.993 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:49:33.329  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:49:33.385  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:49:37.379  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:49:37.396  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:51:44.369  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:51:44.421  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:51:48.419  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:51:49.807  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/09:52:03.855 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:52:04.437 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:52:41.145  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:52:41.201  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:52:46.191  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:52:46.208  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:53:01.890 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:53:02.290 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/09:54:39.841  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:54:39.892  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:54:44.697  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:54:44.717  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:56:32.387  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:56:32.415  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:56:36.810  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:56:36.828  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:58:40.932  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/09:58:40.984  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/09:58:45.201  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/09:58:45.217  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/09:59:59.989  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:00:00.079  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:00:04.253  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:00:04.275  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:00:35.901 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:00:36.307 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:01:55.998  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:01:56.057  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:02:00.262  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:02:01.606  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/10:02:12.464 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:02:29.413  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:02:29.480  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:02:33.674  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:02:33.693  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:03:35.217  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:03:35.278  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:03:39.740  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:03:39.757  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:04:00.261 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:04:00.669 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:05:04.732  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:05:04.784  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:05:09.150  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:05:09.168  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:07:01.354  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:07:01.411  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:07:05.483  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:07:05.502  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:08:38.703  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:08:38.777  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:08:43.350  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:08:44.675  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/10:10:17.599  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:10:17.657  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:10:21.934  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:10:21.957  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:13:22.404  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:13:22.433  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:13:27.323  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:13:27.341  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:13:45.143 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:13:45.573 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:14:05.656 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:14:40.133  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:14:40.191  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:14:44.307  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:14:44.324  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:17:24.657  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:17:24.714  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:17:29.724  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:17:31.031  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/10:18:07.681 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:18:08.141 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:18:22.285 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:18:22.941 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:18:36.559 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:21:23.482  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:21:23.543  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:21:27.754  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:21:27.770  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:22:01.607 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:22:02.046 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:22:08.790 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:22:09.550 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:22:14.419 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:23:24.526  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:23:24.586  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:23:29.032  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:23:29.049  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:25:33.474  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:25:33.538  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:25:37.675  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:25:37.694  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/10:26:09.189 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:26:09.582 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:26:16.858 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:26:17.896 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/10:27:50.939  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/10:27:51.003  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/10:27:55.286  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/10:27:55.305  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/11:57:54.158  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/11:57:54.347  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/11:58:05.797  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/11:58:08.253  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/12:05:19.034  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/12:05:19.138  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/12:05:27.464  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/12:05:29.266  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/12:05:50.687 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/12:05:51.566 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/12:06:52.261 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/12:06:52.632 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/12:33:14.019  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/12:33:14.075  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/12:33:20.997  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/12:33:23.927  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/12:34:59.996  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/12:35:00.086  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/12:35:07.231  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/12:35:09.682  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/13:47:19.726  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/13:47:19.795  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/13:47:26.977  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/13:47:29.425  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/14:45:50.793  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/14:45:50.862  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/14:45:58.196  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/14:46:00.736  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/14:46:22.286 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/14:46:23.049 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/14:47:23.609 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/14:47:24.037 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/14:47:44.756 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/14:55:54.401  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/14:55:54.959  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/14:56:02.366  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/14:56:04.460  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/15:01:04.415  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/15:01:04.498  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/15:01:11.646  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/15:01:13.942  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/15:01:34.863 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:01:35.468 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:02:23.807 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:02:24.217 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:03:13.310 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:03:13.701 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:48:25.736  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/15:48:25.792  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/15:48:32.541  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/15:48:34.948  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/15:48:57.287 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:48:57.908 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:49:56.151 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:49:56.534 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:50:35.724 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:50:36.097 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:50:36.535 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/15:50:37.056 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/16:58:29.871  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/16:58:29.925  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/16:58:37.574  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/16:58:40.632  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/16:58:58.141 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/16:58:58.773 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/16:59:56.838 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/16:59:57.232 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:00:36.438 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:00:36.836 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:00:47.260 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:01:48.700  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/17:01:48.764  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/17:01:55.855  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/17:01:57.921  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/17:02:15.438 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:02:16.175 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:03:15.019 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:03:15.415 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:03:54.734 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:03:55.110 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:04:05.598 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:06:46.128  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/17:06:46.196  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/17:06:53.150  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/17:06:55.670  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/17:11:12.179  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/17:11:12.240  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/17:11:19.204  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/17:11:21.053  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/17:43:14.688  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/17:43:14.803  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/17:43:21.943  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/17:43:24.470  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/17:43:47.314 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:43:48.026 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:44:47.294 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:44:47.683 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:45:26.757 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:45:27.313 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:46:58.378 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/17:48:26.116  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/17:48:26.221  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/17:48:33.383  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/17:48:36.174  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/18:10:09.971  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/18:10:10.033  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/18:10:17.525  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/18:10:20.067  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/18:10:37.266 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:10:37.970 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:11:35.203 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:11:35.618 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:12:14.806 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:12:15.284 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:13:11.336 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:31:39.024  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/18:31:39.089  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/18:31:45.905  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/18:31:48.464  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-05-18/18:32:06.585 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:32:07.366 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:32:59.324 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:32:59.761 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:33:38.937 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:33:39.398 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:33:56.779 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:35:26.511  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/18:35:26.586  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/18:35:33.605  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/18:35:33.662  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-18/18:35:53.255 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:35:53.823 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:36:42.285 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:36:42.685 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:37:21.842 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:37:22.287 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/18:37:39.411 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-18/19:16:56.540  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-18/19:16:56.611  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18/19:17:03.589  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-18/19:17:05.651  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/

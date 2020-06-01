@@ -1,0 +1,28 @@
+2020-05-13/16:42:27.090  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/16:42:27.230  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/16:42:47.293  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/16:42:47.324  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-13/16:47:42.035  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/16:47:42.103  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/16:47:47.092  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/16:47:47.112  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-13/16:49:19.772  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/16:49:19.834  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/16:49:26.366  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/16:49:26.386  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-13/16:51:30.696  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/16:51:30.763  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/16:51:35.725  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/16:51:35.743  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-13/16:52:13.926 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-13/16:52:14.610 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-13/16:52:36.031 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-13/16:52:36.746 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-05-13/16:58:36.253  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/16:58:36.311  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/16:58:41.274  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/16:58:41.291  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-05-13/17:00:22.276  INFO: wdm.WebDriverManager - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+2020-05-13/17:00:22.339  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\deepakv\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-13/17:00:27.143  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-05-13/17:00:27.158  INFO: listener.WebEventListener - After Navigated to URL: data:,
