@@ -1,293 +1,98 @@
-2020-05-28/10:55:36.847  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/10:55:36.973  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/10:55:52.482  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/10:55:54.870  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/10:56:20.955 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/10:56:22.011 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:06:53.001  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:06:53.083  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:06:59.709  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/11:07:01.778  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/11:07:28.975 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:07:30.057 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:08:25.317 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:08:25.749 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:04.853 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:05.222 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:31.500 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:31.873 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:48.733 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:49.133 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:56.463 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:09:56.880 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:10:03.183 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:10:03.619 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:10:12.368 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:10:12.814 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:11:33.280 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:12:54.514 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:13:34.928 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:22:24.390  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:22:24.514  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:22:45.944  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:22:46.018  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:22:54.209  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/11:22:56.364  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/11:23:17.115 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:23:18.284 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:24:15.475 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:24:15.858 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:24:55.107 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:24:55.530 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:22.150 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:22.583 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:39.651 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:40.539 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:48.037 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:48.455 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:54.877 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:25:55.246 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:26:04.087 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:26:04.521 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:27:25.073 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:28:46.334 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:29:27.016 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:35:01.145  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:35:01.227  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:35:09.718  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/11:35:11.874  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/11:35:42.270 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:35:43.487 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:36:37.559 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:36:37.949 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:37:17.270 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:37:17.682 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:37:43.983 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:37:44.420 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:01.006 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:01.396 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:08.707 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:09.126 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:15.459 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:15.825 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:24.384 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:24.867 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:33.668 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:38:34.135 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:39:54.822 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:40:35.331 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/11:53:56.824  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:53:56.881  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:54:04.286  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/11:54:07.045  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/11:56:09.246  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/11:56:09.305  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/11:56:16.275  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/11:56:18.401  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/12:29:46.565  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/12:29:46.644  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/12:29:55.636  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/12:29:57.878  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/12:30:29.916 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/12:30:31.188 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/12:31:13.806 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:04:20.213  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:04:20.321  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:04:32.256  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:04:40.534  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:07:17.030  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:07:17.090  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:07:23.239  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:07:25.342  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:07:47.036 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:07:47.998 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:09:05.600 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:10:06.217 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:10:56.492 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:11:37.293 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:13:20.950  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:13:21.066  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:13:27.831  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:13:30.178  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:18:20.963  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:18:21.023  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:18:27.425  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:18:29.735  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:18:47.086 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:18:48.285 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:19:38.739 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:19:39.215 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:20:18.523 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:20:18.975 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:20:45.331 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:20:45.757 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:02.468 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:02.928 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:10.153 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:10.667 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:16.945 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:17.378 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:25.942 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:26.420 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:36.093 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:36.534 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:57.218 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:21:57.721 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:23:41.047  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:23:41.131  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:23:48.015  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:23:51.057  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:24:10.260 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:24:11.481 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:25:35.090 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:26:07.531 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:26:19.653 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:26:31.832 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:26:43.936 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:26:56.094 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:27:08.281 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:27:16.490 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:27:28.678 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:45:05.661  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:45:05.725  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:45:12.409  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:45:14.839  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:45:35.577 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:45:36.466 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:46:25.392 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:46:25.832 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:46:36.180 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:46:36.733 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:47:09.257 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:47:21.362 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:47:33.546 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:47:45.685 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:47:57.847 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:48:09.969 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:48:22.170 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:48:34.346 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:52:18.247  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:52:18.315  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:52:25.247  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:52:29.155  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/16:52:46.447 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:52:47.586 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:53:32.197 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:53:32.574 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:53:46.970 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:53:47.436 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:53:48.694 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:55:09.049 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:55:10.376 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:55:11.629 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:55:12.880 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:55:53.084 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:57:13.556 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:57:14.845 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:59:08.376  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/16:59:08.436  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/16:59:14.973  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/16:59:15.025  INFO: listener.WebEventListener - After Navigated to URL: data:,
-2020-05-28/16:59:33.314 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/16:59:34.248 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:00:35.341 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:00:35.761 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:00:50.047 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:00:50.626 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:00:51.851 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:12.134 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:13.425 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:14.738 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:16.024 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:40.881 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:02:53.087 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:03:05.200 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:07:03.060  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/17:07:03.124  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/17:07:09.509  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/17:07:12.618  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/17:07:31.050 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:07:32.517 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:08:23.162 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:08:23.620 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:08:38.175 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:08:38.672 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:09:17.877 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:09:18.305 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:10:38.859 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:10:55.278 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:10:55.776 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:02.970 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:03.402 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:09.666 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:10.190 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:18.899 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:19.315 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:28.893 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:11:29.330 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/17:12:49.887 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/18:34:07.524  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/18:34:07.631  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/18:34:15.527  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/18:34:18.582  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/18:37:07.890  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/18:37:07.945  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/18:37:14.200  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/18:37:16.482  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/18:37:34.011 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/18:37:35.368 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/18:52:13.686  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/18:52:13.747  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/18:52:20.045  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/18:52:22.155  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/19:17:26.403  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/19:17:26.474  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/19:17:33.085  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/19:17:35.348  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/19:17:52.777 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:17:54.011 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:18:38.565 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:18:38.940 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:18:53.419 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:18:53.792 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:19:00.156 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:19:00.526 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:19:39.514 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:19:39.916 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:06.045 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:06.420 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:22.291 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:22.680 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:29.890 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:30.299 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:36.565 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:36.923 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:20:45.529 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:39:58.489  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
-2020-05-28/19:39:58.725  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
-2020-05-28/19:40:07.710  INFO: listener.WebEventListener - Before Navigated to URL: data:,
-2020-05-28/19:40:09.870  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
-2020-05-28/19:40:32.357 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:40:33.790 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:30.106 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:30.515 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:45.011 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:45.398 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:52.456 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:41:52.894 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:42:32.240 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:42:32.623 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:42:59.140 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:42:59.513 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:16.477 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:16.858 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:24.222 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:24.592 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:30.954 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:31.343 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:39.918 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:40.363 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:50.143 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:43:50.535 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:44:09.236 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
-2020-05-28/19:44:09.600 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/11:04:06.060  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/11:04:06.249  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/11:04:21.496  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/11:04:23.633  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/14:34:45.261  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/14:34:45.369  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/14:34:52.982  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/14:34:55.059  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/14:35:15.232 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:35:16.251 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:04.264 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:04.620 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:18.982 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:19.390 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:25.957 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:26.336 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:31.676 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:32.047 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:37.573 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:37.962 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:43.425 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:43.836 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:49.078 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:36:49.502 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:37:00.363 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:37:00.736 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:37:08.135 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:37:08.502 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:45:02.108  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/14:45:02.203  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/14:45:08.855  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/14:45:10.979  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/14:51:29.512  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/14:51:29.794  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/14:51:35.986  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/14:51:38.209  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/14:52:00.951 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:52:01.775 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:52:48.485 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:52:48.871 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:03.365 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:03.817 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:10.496 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:10.892 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:16.244 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:16.644 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:22.125 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:22.497 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:28.009 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:28.435 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:33.680 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:34.043 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:44.790 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:45.169 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:52.553 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:53:52.936 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:54:33.274 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/14:58:42.996  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/14:58:43.256  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/14:58:49.545  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/14:58:51.627  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/15:10:49.014  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-16/15:10:49.377  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-16/15:10:57.502  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-16/15:10:59.591  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-16/15:11:15.782 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:11:17.116 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:16.731 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:17.134 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:31.463 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:31.856 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:38.340 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:38.703 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:43.999 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:44.371 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:49.922 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:50.298 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:55.805 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:12:56.172 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:01.454 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:01.832 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:12.676 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:13.057 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:20.310 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:20.706 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:36.973 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:37.348 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:42.750 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:13:43.134 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:14:21.886 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:14:22.329 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:14:40.902 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:14:52.998 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:15:05.071 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:15:17.156 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:15:29.214 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:15:41.294 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2020-06-16/15:15:53.367 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running

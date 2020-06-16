@@ -1,0 +1,400 @@
+{
+  "uid" : "4ba42417daf6157",
+  "name" : "signIn",
+  "fullName" : "pages.LoginPageTest.signIn",
+  "historyId" : "b2dfb8a7c9fc89204334b6a20383eb17",
+  "time" : {
+    "start" : 1592300472906,
+    "stop" : 1592300475182,
+    "duration" : 2276
+  },
+  "description" : "Verify valid user are allowed to access",
+  "descriptionHtml" : "<p>Verify valid user are allowed to access</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592300447873,
+      "stop" : 1592300465941,
+      "duration" : 18068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Verify valid user are allowed to access",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter UserName: \"anand.maurya@ram.co.za\"",
+      "time" : {
+        "start" : 1592300473193,
+        "stop" : 1592300473901,
+        "duration" : 708
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Enter webelement [[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='email' or @type='text']] value [[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='email' or @type='text']]",
+        "time" : {
+          "start" : 1592300473352,
+          "stop" : 1592300473901,
+          "duration" : 549
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "webElement",
+          "value" : "[[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='email' or @type='text']]"
+        }, {
+          "name" : "inputTxt",
+          "value" : "anand.maurya@ram.co.za"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "userName",
+        "value" : "anand.maurya@ram.co.za"
+      } ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1592300473902,
+        "stop" : 1592300474168,
+        "duration" : 266
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Enter Password: \"Test12345\"",
+      "time" : {
+        "start" : 1592300474168,
+        "stop" : 1592300474857,
+        "duration" : 689
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Enter webelement [[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='password']] value [[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='password']]",
+        "time" : {
+          "start" : 1592300474284,
+          "stop" : 1592300474857,
+          "duration" : 573
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "webElement",
+          "value" : "[[[[ChromeDriver: chrome on WINDOWS (f23b9378a9c62eec14eec57ff77b3887)] -> xpath: //form[1]]] -> xpath: //child::input[@type='password']]"
+        }, {
+          "name" : "inputTxt",
+          "value" : "Test12345"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "Test12345"
+      } ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1592300474857,
+        "stop" : 1592300475166,
+        "duration" : 309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "tearBrowser",
+    "time" : {
+      "start" : 1592300753788,
+      "stop" : 1592300755058,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "signIn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "6332@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{Status=, Message=, Password=Test12345, UserName=anand.maurya@ram.co.za}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "f555f1e7c99026b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299759152,
+        "stop" : 1592299762120,
+        "duration" : 2968
+      }
+    }, {
+      "uid" : "8300c2eb0699514b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299318809,
+        "stop" : 1592299320210,
+        "duration" : 1401
+      }
+    }, {
+      "uid" : "ca2ee4c2de211d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592298926794,
+        "stop" : 1592298929869,
+        "duration" : 3075
+      }
+    }, {
+      "uid" : "b24ee519287eb1e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592298312750,
+        "stop" : 1592298314646,
+        "duration" : 1896
+      }
+    }, {
+      "uid" : "2adc449181b0b62c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592285698262,
+        "stop" : 1592285703321,
+        "duration" : 5059
+      }
+    }, {
+      "uid" : "3188860e90ae9580",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227332536,
+        "stop" : 1592227334437,
+        "duration" : 1901
+      }
+    }, {
+      "uid" : "52c43930cad5d75f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227132713,
+        "stop" : 1592227135096,
+        "duration" : 2383
+      }
+    }, {
+      "uid" : "5521bf2189340566",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226777578,
+        "stop" : 1592226778974,
+        "duration" : 1396
+      }
+    }, {
+      "uid" : "60c63d2979189dd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226319030,
+        "stop" : 1592226322229,
+        "duration" : 3199
+      }
+    }, {
+      "uid" : "b4a46fe8732976d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592225925390,
+        "stop" : 1592225927087,
+        "duration" : 1697
+      }
+    }, {
+      "uid" : "a32ccb37a6c74b17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592225771019,
+        "stop" : 1592225773395,
+        "duration" : 2376
+      }
+    }, {
+      "uid" : "9e815f5583197bf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223568630,
+        "stop" : 1592223570083,
+        "duration" : 1453
+      }
+    }, {
+      "uid" : "21eace12d0746e21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223392636,
+        "stop" : 1592223395458,
+        "duration" : 2822
+      }
+    }, {
+      "uid" : "2058e538ec8008e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592222004587,
+        "stop" : 1592222007552,
+        "duration" : 2965
+      }
+    }, {
+      "uid" : "b2a4750fbae5db88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221771262,
+        "stop" : 1592221774029,
+        "duration" : 2767
+      }
+    }, {
+      "uid" : "ff5316f5634963e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221553832,
+        "stop" : 1592221556627,
+        "duration" : 2795
+      }
+    }, {
+      "uid" : "7026da45f632cc96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592220383895,
+        "stop" : 1592220386262,
+        "duration" : 2367
+      }
+    }, {
+      "uid" : "75c40593cd545755",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592219831971,
+        "stop" : 1592219834123,
+        "duration" : 2152
+      }
+    }, {
+      "uid" : "a2fea65b817ba18a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592219215373,
+        "stop" : 1592219218244,
+        "duration" : 2871
+      }
+    }, {
+      "uid" : "68027ef4cdfe8088",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592218974042,
+        "stop" : 1592218986429,
+        "duration" : 12387
+      }
+    }, {
+      "uid" : "c08428270b868175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592217470948,
+        "stop" : 1592217474241,
+        "duration" : 3293
+      }
+    }, {
+      "uid" : "ed8733108f66ba04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592213390246,
+        "stop" : 1592213392007,
+        "duration" : 1761
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Passed test",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4ba42417daf6157.json",
+  "parameterValues" : [ "{Status=, Message=, Password=Test12345, UserName=anand.maurya@ram.co.za}" ]
+}

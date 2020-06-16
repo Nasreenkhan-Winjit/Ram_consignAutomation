@@ -1,0 +1,1 @@
+clickOnResetButton failed and screenshot taken!

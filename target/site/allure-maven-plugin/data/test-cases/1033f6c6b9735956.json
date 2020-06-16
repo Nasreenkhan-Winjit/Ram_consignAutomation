@@ -1,0 +1,196 @@
+{
+  "uid" : "1033f6c6b9735956",
+  "name" : "thirdStepReciever",
+  "fullName" : "pages.TestPageConsinment.thirdStepReciever",
+  "historyId" : "68f5ca7ba79a2286177c291d470b2603",
+  "time" : {
+    "start" : 1592300623143,
+    "stop" : 1592300661804,
+    "duration" : 38661
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592300447873,
+      "stop" : 1592300465941,
+      "duration" : 18068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearBrowser",
+    "time" : {
+      "start" : 1592300753788,
+      "stop" : 1592300755058,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "thirdStepReciever"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "6332@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "544e14db91000627",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227449066,
+        "stop" : 1592227488022,
+        "duration" : 38956
+      }
+    }, {
+      "uid" : "be9695ba4731c9bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226981370,
+        "stop" : 1592227020401,
+        "duration" : 39031
+      }
+    }, {
+      "uid" : "d90d428fe631c380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226521852,
+        "stop" : 1592226561726,
+        "duration" : 39874
+      }
+    }, {
+      "uid" : "cfa049d4bf75caa",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <div class=\"v-stepper__step v-stepper__step--inactive\" id=\"stepReceiver\">...</div> is not clickable at point (674, 429). Other element would receive the click: <div class=\"flex xs6\" style=\"padding-right: 10px;\">...</div>\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:61571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: de1d0a1b155c23548a746e72ae958509",
+      "time" : {
+        "start" : 1592226120835,
+        "stop" : 1592226122058,
+        "duration" : 1223
+      }
+    }, {
+      "uid" : "d47c8844b1b0aa3d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1592225814513,
+        "stop" : 1592225814520,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "fe546cd487334702",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <div class=\"v-stepper__step v-stepper__step--inactive\" id=\"stepReceiver\">...</div> is not clickable at point (674, 316). Other element would receive the click: <div data-v-517c2ba2=\"\" class=\"ballcolor ball_4\"></div>\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:58543}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 58ccfb40585c2219ffe9ee0c06d8840e",
+      "time" : {
+        "start" : 1592221661886,
+        "stop" : 1592221663318,
+        "duration" : 1432
+      }
+    }, {
+      "uid" : "2790cee1a3d5f3d2",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <div class=\"v-stepper__step v-stepper__step--inactive\" id=\"stepReceiver\">...</div> is not clickable at point (674, 316). Other element would receive the click: <form novalidate=\"novalidate\" onsubmit=\"return false;\" class=\"v-form\">...</form>\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57770}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bff782797ec1f9dd4365715bc3eb99fd",
+      "time" : {
+        "start" : 1592220471726,
+        "stop" : 1592220472983,
+        "duration" : 1257
+      }
+    }, {
+      "uid" : "ce2ef8287bb32743",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57248}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2fa77ba8c3a9aa49de1d78e51fd734d5\n*** Element info: {Using=xpath, value=//input[@id='ReceiverName']}",
+      "time" : {
+        "start" : 1592220004959,
+        "stop" : 1592220037253,
+        "duration" : 32294
+      }
+    }, {
+      "uid" : "b69a592ce155d370",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:56729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: da4d6c72bd75ddaa94a8411b73ebcf5f\n*** Element info: {Using=xpath, value=//input[@id='ReceiverName']}",
+      "time" : {
+        "start" : 1592219309615,
+        "stop" : 1592219337828,
+        "duration" : 28213
+      }
+    }, {
+      "uid" : "dee2c7a4cbccc38b",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=83.0.4103.61)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\nasreenk\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:56419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e68fd31759d3f71d847b2008fdaac18c\n*** Element info: {Using=xpath, value=//input[@id='ReceiverName']}",
+      "time" : {
+        "start" : 1592219057406,
+        "stop" : 1592219086102,
+        "duration" : 28696
+      }
+    }, {
+      "uid" : "b46b7a57f7da32b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592217549444,
+        "stop" : 1592217589211,
+        "duration" : 39767
+      }
+    }, {
+      "uid" : "125f30772cadc0b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592213474167,
+        "stop" : 1592213513288,
+        "duration" : 39121
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1033f6c6b9735956.json",
+  "parameterValues" : [ ]
+}

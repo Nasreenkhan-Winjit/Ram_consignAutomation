@@ -1,0 +1,81 @@
+{
+  "uid" : "95a87e2754b19b8e",
+  "name" : "commudityValidation",
+  "fullName" : "pages.TestPageConsinment.commudityValidation",
+  "historyId" : "8049b524a434e0dd420d2959aed5ae47",
+  "time" : {
+    "start" : 1592223445799,
+    "stop" : 1592223460591,
+    "duration" : 14792
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "974b276e2f42437a",
+      "name" : "commudityValidation passed and screenshot taken!",
+      "source" : "974b276e2f42437a.txt",
+      "type" : "text/plain",
+      "size" : 48
+    }, {
+      "uid" : "1279692486f009c9",
+      "name" : "commudityValidation",
+      "source" : "1279692486f009c9.png",
+      "type" : "image/png",
+      "size" : 38102
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "commudityValidation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "3900@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95a87e2754b19b8e.json",
+  "parameterValues" : [ ]
+}

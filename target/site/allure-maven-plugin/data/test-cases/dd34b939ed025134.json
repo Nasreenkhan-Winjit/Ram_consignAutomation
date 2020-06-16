@@ -1,0 +1,182 @@
+{
+  "uid" : "dd34b939ed025134",
+  "name" : "clickOnbuttonEditContact",
+  "fullName" : "pages.TestPageConsinment.clickOnbuttonEditContact",
+  "historyId" : "e7599cc4b6e7724ce97cdaf217540e39",
+  "time" : {
+    "start" : 1592300593067,
+    "stop" : 1592300600295,
+    "duration" : 7228
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592300447873,
+      "stop" : 1592300465941,
+      "duration" : 18068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearBrowser",
+    "time" : {
+      "start" : 1592300753788,
+      "stop" : 1592300755058,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnbuttonEditContact"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "6332@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb1de316c86c7aea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299869531,
+        "stop" : 1592299877072,
+        "duration" : 7541
+      }
+    }, {
+      "uid" : "a66deb937ef03b8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299425181,
+        "stop" : 1592299432524,
+        "duration" : 7343
+      }
+    }, {
+      "uid" : "522729e258fcb706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299041952,
+        "stop" : 1592299049972,
+        "duration" : 8020
+      }
+    }, {
+      "uid" : "c0f00ed4ad3a681b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592298420747,
+        "stop" : 1592298428093,
+        "duration" : 7346
+      }
+    }, {
+      "uid" : "6ecc7b3580604ed2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227440460,
+        "stop" : 1592227448630,
+        "duration" : 8170
+      }
+    }, {
+      "uid" : "4e3e0bad3a40774d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226892650,
+        "stop" : 1592226900639,
+        "duration" : 7989
+      }
+    }, {
+      "uid" : "52c10bcf21de5c87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226438572,
+        "stop" : 1592226441252,
+        "duration" : 2680
+      }
+    }, {
+      "uid" : "32ad978c1fee7913",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226038177,
+        "stop" : 1592226039916,
+        "duration" : 1739
+      }
+    }, {
+      "uid" : "c87fd97405787e11",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1592225814485,
+        "stop" : 1592225814493,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "8818e1874a3bb1bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223680041,
+        "stop" : 1592223682136,
+        "duration" : 2095
+      }
+    }, {
+      "uid" : "2bc6c4e9712bb2d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223501228,
+        "stop" : 1592223503939,
+        "duration" : 2711
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd34b939ed025134.json",
+  "parameterValues" : [ ]
+}

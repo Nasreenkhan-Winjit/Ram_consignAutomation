@@ -29,19 +29,19 @@
                         <goals>
                             <goal>copy-resources</goal>
                         </goals>
-                        <configuration>
-                            <outputDirectory>${basedir}/target/allure-results</outputDirectory>
-                            <resources>
-                                <resource>
-                                    <directory>src/test/resources</directory>
-                                    <includes>
-                                        <include>environment.xml</include>
-                                        <include>categories.json</include>
-                                    </includes>
-<!--                                    <filtering>true</filtering>-->
-                                </resource>
-                            </resources>
-                        </configuration>
+<!--                       <configuration>&ndash;&gt;-->
+<!--&lt;!&ndash;                            <outputDirectory>${basedir}/target/allure-results</outputDirectory>&ndash;&gt;-->
+<!--                            <resources>-->
+<!--                                <resource>-->
+<!--                                    <directory>src/test/resources</directory>-->
+<!--                                    <includes>-->
+<!--                                        <include>environment.xml</include>-->
+<!--                                        <include>categories.json</include>-->
+<!--                                    </includes>-->
+<!--&lt;!&ndash;                                    <filtering>true</filtering>&ndash;&gt;-->
+<!--                                </resource>-->
+<!--                            </resources>-->
+<!--                        </configuration>-->
                     </execution>
                 </executions>
             </plugin>
@@ -62,9 +62,9 @@
                 <version>3.0.0-M4</version>
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
-                    <argLine>
-                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-                    </argLine>
+<!--                    <argLine>-->
+<!--                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"-->
+<!--                    </argLine>-->
                     <suiteXmlFiles>
                         <suiteXmlFile>${project.basedir}\Testsuites\MainSuite.xml</suiteXmlFile>
                     </suiteXmlFiles>

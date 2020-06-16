@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="264.652" tests="12" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="314.368" tests="20" errors="0" skipped="0" failures="7">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.7\bin"/>
-    <property name="sun.java.command" value="C:\Users\nasreenk\AppData\Local\Temp\surefire16452759149260128986\surefirebooter17494636394379972682.jar C:\Users\nasreenk\AppData\Local\Temp\surefire16452759149260128986 2020-05-28T19-39-44_277-jvmRun1 surefire6639388294093653909tmp surefire_04999069573844586989tmp"/>
+    <property name="sun.java.command" value="C:\Users\nasreenk\AppData\Local\Temp\surefire9443382858678517929\surefirebooter2509394766930010106.jar C:\Users\nasreenk\AppData\Local\Temp\surefire9443382858678517929 2020-06-16T15-10-38_576-jvmRun1 surefire4733721707779255766tmp surefire_014236009109096142926tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="E:\InelliJ\SeleniumTestJavaArtifact-billed to\SeleniumTestJavaArtifact\target\test-classes;E:\InelliJ\SeleniumTestJavaArtifact-billed to\SeleniumTestJavaArtifact\target\classes;C:\Users\nasreenk\.m2\repository\io\github\bonigarcia\webdrivermanager\3.8.1\webdrivermanager-3.8.1.jar;C:\Users\nasreenk\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\nasreenk\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\nasreenk\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\nasreenk\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar;C:\Users\nasreenk\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar;C:\Users\nasreenk\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\nasreenk\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\nasreenk\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\nasreenk\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\nasreenk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\nasreenk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\nasreenk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\nasreenk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\nasreenk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\nasreenk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\nasreenk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\nasreenk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\nasreenk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\nasreenk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\nasreenk\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\nasreenk\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\nasreenk\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\nasreenk\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\nasreenk\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\nasreenk\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\nasreenk\.m2\repository\com\codoid\products\fillo\1.21\fillo-1.21.jar;C:\Users\nasreenk\.m2\repository\org\testng\reportng\1.2.2\reportng-1.2.2.jar;C:\Users\nasreenk\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\nasreenk\.m2\repository\com\google\inject\guice\4.2.0\guice-4.2.0.jar;C:\Users\nasreenk\.m2\repository\io\qameta\allure\allure-testng\2.13.2\allure-testng-2.13.2.jar;C:\Users\nasreenk\.m2\repository\io\qameta\allure\allure-java-commons\2.13.2\allure-java-commons-2.13.2.jar;C:\Users\nasreenk\.m2\repository\io\qameta\allure\allure-model\2.13.2\allure-model-2.13.2.jar;C:\Users\nasreenk\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\nasreenk\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\nasreenk\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\nasreenk\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\nasreenk\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\nasreenk\.m2\repository\com\aventstack\extentreports\4.1.3\extentreports-4.1.3.jar;C:\Users\nasreenk\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\nasreenk\.m2\repository\org\mongodb\mongodb-driver\3.12.0\mongodb-driver-3.12.0.jar;C:\Users\nasreenk\.m2\repository\org\mongodb\mongodb-driver-core\3.12.0\mongodb-driver-core-3.12.0.jar;C:\Users\nasreenk\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;C:\Users\nasreenk\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar;C:\Users\nasreenk\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\nasreenk\.m2\repository\org\jsoup\jsoup\1.12.1\jsoup-1.12.1.jar;C:\Users\nasreenk\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\nasreenk\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\nasreenk\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\nasreenk\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\nasreenk\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.2\log4j-core-2.13.2.jar;C:\Users\nasreenk\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.2\log4j-api-2.13.2.jar;C:\Users\nasreenk\.m2\repository\net\sourceforge\csvjdbc\csvjdbc\1.0.36\csvjdbc-1.0.36.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -35,7 +35,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="idea.version2020.1.1" value="true"/>
-    <property name="surefire.real.class.path" value="C:\Users\nasreenk\AppData\Local\Temp\surefire16452759149260128986\surefirebooter17494636394379972682.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\nasreenk\AppData\Local\Temp\surefire9443382858678517929\surefirebooter2509394766930010106.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.7+8-LTS"/>
@@ -62,16 +62,159 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="signIn" classname="pages.LoginPageTest" time="5.134"/>
-  <testcase name="doStarted" classname="pages.TestPageConsinment" time="56.401"/>
-  <testcase name="commudityValidation" classname="pages.TestPageConsinment" time="14.873"/>
-  <testcase name="selectCommudityJwellery" classname="pages.TestPageConsinment" time="7.487"/>
-  <testcase name="thirdStepReciever" classname="pages.TestPageConsinment" time="39.721"/>
-  <testcase name="clickOnStepValue" classname="pages.TestPageConsinment" time="26.881"/>
-  <testcase name="clickOnStepRequirement" classname="pages.TestPageConsinment" time="17.339"/>
-  <testcase name="clickOnStepServices" classname="pages.TestPageConsinment" time="7.726"/>
-  <testcase name="clickonstepParcel" classname="pages.TestPageConsinment" time="6.742"/>
-  <testcase name="entertxtNumberOfParcel" classname="pages.TestPageConsinment" time="9.012"/>
-  <testcase name="entertxtSecuritypack" classname="pages.TestPageConsinment" time="10.164"/>
-  <testcase name="clickONFinaliseButton" classname="pages.TestPageConsinment" time="19.055"/>
+  <testcase name="signIn" classname="pages.LoginPageTest" time="2.751"/>
+  <testcase name="doStarted" classname="pages.TestPageConsinment" time="59.159"/>
+  <testcase name="commudityValidation" classname="pages.TestPageConsinment" time="14.318"/>
+  <testcase name="selectCommudityJwellery" classname="pages.TestPageConsinment" time="6.463"/>
+  <testcase name="clickOnSecondStepper" classname="pages.TestPageConsinment" time="5.286"/>
+  <testcase name="clickOnResetButton" classname="pages.TestPageConsinment" time="5.54"/>
+  <testcase name="clickOnSenderName" classname="pages.TestPageConsinment" time="5.494"/>
+  <testcase name="selectMenufromSenderName" classname="pages.TestPageConsinment" time="5.273"/>
+  <testcase name="validateButtonNewContact" classname="pages.TestPageConsinment" time="10.835"/>
+  <testcase name="clickOnbuttonEditContact" classname="pages.TestPageConsinment" time="7.242"/>
+  <testcase name="clickOnbuttonNewReceiver" classname="pages.TestPageConsinment" time="16.257"/>
+  <testcase name="clickonCancelbuttonNewCustomer" classname="pages.TestPageConsinment" time="5.373"/>
+  <testcase name="thirdStepReciever" classname="pages.TestPageConsinment" time="38.741"/>
+  <testcase name="clickOnStepValue" classname="pages.TestPageConsinment" time="18.563">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//div[@class=&apos;v-text-field__slot&apos;]//input[@id=&apos;ValueForCarriage&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//div[@class='v-text-field__slot']//input[@id='ValueForCarriage']}
+	at pages.TestPageConsinment.clickOnStepValue(TestPageConsinment.java:138)
+]]></failure>
+    <system-out><![CDATA[2020-06-16/15:14:21.886 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+212872 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+2020-06-16/15:14:22.329 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+213315 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method clickOnStepValue start
+beforeClickOn xpath: //div[@id='stepValue']]
+]]></system-out>
+    <system-err><![CDATA[[1592300676.790][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="clickOnStepRequirement" classname="pages.TestPageConsinment" time="12.069">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//div[@id=&apos;stepRequirements&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//div[@id='stepRequirements']}
+	at pages.TestPageConsinment.clickOnStepRequirement(TestPageConsinment.java:147)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method clickOnStepValue failed
+2020-06-16/15:14:40.902 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+231888 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method clickOnStepRequirement start
+]]></system-out>
+    <system-err><![CDATA[[1592300684.940][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="clickOnStepServices" classname="pages.TestPageConsinment" time="12.051">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//div[@id=&apos;stepServices&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//div[@id='stepServices']}
+	at pages.TestPageConsinment.clickOnStepServices(TestPageConsinment.java:163)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method clickOnStepRequirement failed
+2020-06-16/15:14:52.998 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+243984 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method clickOnStepServices start
+]]></system-out>
+    <system-err><![CDATA[[1592300697.028][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="clickonstepParcel" classname="pages.TestPageConsinment" time="12.048">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//div[@id=&apos;stepParcels&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//div[@id='stepParcels']}
+	at pages.TestPageConsinment.clickonstepParcel(TestPageConsinment.java:170)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method clickOnStepServices failed
+2020-06-16/15:15:05.071 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+256057 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method clickonstepParcel start
+]]></system-out>
+    <system-err><![CDATA[[1592300709.112][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="entertxtNumberOfParcel" classname="pages.TestPageConsinment" time="12.048">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//input[@id=&apos;NumberOfParcels&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//input[@id='NumberOfParcels']}
+	at pages.TestPageConsinment.entertxtNumberOfParcel(TestPageConsinment.java:175)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method clickonstepParcel failed
+2020-06-16/15:15:17.156 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+268142 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method entertxtNumberOfParcel start
+]]></system-out>
+    <system-err><![CDATA[[1592300721.175][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="entertxtSecuritypack" classname="pages.TestPageConsinment" time="12.059">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//input[@id=&apos;ParcelSecurityPack001&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//input[@id='ParcelSecurityPack001']}
+	at pages.TestPageConsinment.entertxtSecuritypack(TestPageConsinment.java:182)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method entertxtNumberOfParcel failed
+2020-06-16/15:15:29.214 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+280200 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method entertxtSecuritypack start
+]]></system-out>
+    <system-err><![CDATA[[1592300733.247][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+  <testcase name="clickONFinaliseButton" classname="pages.TestPageConsinment" time="12.05">
+    <failure message="chrome not reachable&#10;  (Session info: chrome=83.0.4103.97)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WJLP-1098&apos;, ip: &apos;192.168.65.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: f23b9378a9c62eec14eec57ff77b3887&#10;*** Element info: {Using=xpath, value=//button[@id=&apos;FinaliseConsignment&apos;]}" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WJLP-1098', ip: '192.168.65.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f23b9378a9c62eec14eec57ff77b3887
+*** Element info: {Using=xpath, value=//button[@id='FinaliseConsignment']}
+	at pages.TestPageConsinment.clickONFinaliseButton(TestPageConsinment.java:194)
+]]></failure>
+    <system-out><![CDATA[I am in onTestFailure method entertxtSecuritypack failed
+2020-06-16/15:15:41.294 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+292280 [main] ERROR io.qameta.allure.AllureLifecycle  - Could not add attachment: no test is running
+I am in onTestStart method clickONFinaliseButton start
+]]></system-out>
+    <system-err><![CDATA[[1592300745.325][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
 </testsuite>

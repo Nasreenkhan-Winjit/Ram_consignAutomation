@@ -58,23 +58,64 @@ public class PageConsinment extends BasePage {
     @FindBy(how =How.XPATH,using = "//div[@class='v-list__tile__content']/div[contains(text(),'Jewellery')]")
     private WebElement elementMenuJwellery;
 
+    // Stepper  second Validation
 
+    @FindBy(how =How.XPATH, using = "//div[@id='stepSender']")
+    private WebElement elementMenuSecondStepper;
 
+    @FindBy(how=How.XPATH,using = "//div[contains(text(),'Reset')]")
+    private WebElement elementButtonReset;
 
+    @FindBy(how= How.XPATH, using = "//input[@id='SenderName']")
+    private WebElement elemnentFieldSenderName;
 
+    @FindBy(how = How.XPATH, using = "//div[contains(text(),'CELL C - COMPANY OWNED STORES, CELL C, 084 174 4000')]")
+    private WebElement elementMenuSenderName;
+
+    @FindBy(how = How.XPATH, using= "//button[@id='SenderContactNew']//div[@class='v-btn__content'][contains(text(),'New Contact')]")
+    private WebElement elementbuttonNewContact;
+
+    @FindBy(how = How.XPATH, using = "//div[contains(text(),'Cancel')]")
+    private WebElement elementbuttonCancel;
+
+    @FindBy(how = How.XPATH, using = "//button[@id='SenderContactEdit']//div[contains(text(),'Edit Contact')]")
+    private WebElement elementbuttonEditContact;
+
+    @FindBy(how = How.XPATH, using= "//div[contains(text(),'Save')]")
+    private WebElement elementbuttonSAVE;
+
+    @FindBy(how= How.XPATH, using = "//div[contains(text(),'Cancel')]")
+    private WebElement elementbuttonCancelEditContact;
 
 
 
     // Step third receiver
 
+
     @FindBy(how = How.XPATH, using = "//div[@id='stepReceiver']")
     private WebElement elementThirdStepReciever;
+
+    @FindBy(how = How.XPATH, using= "//div[contains(text(),'New Receiver')]")
+    private WebElement elementbuttonNewReceiver;
+
+    @FindBy(how= How.XPATH, using = "//button[@id='NewCancelCustomer']/div[contains(text(),'Cancel')]")
+    private WebElement elementbuttonCancelNewReceiverDetails;
+
 
     @FindBy(how = How.XPATH, using = "//input[@id='ReceiverName']")
     private WebElement elementRecieverName;
 
     @FindBy(how = How.XPATH, using = "//div[@class='v-menu__content theme--light menuable__content__active v-autocomplete__content']//div[@class='v-list__tile__content'][1]")
     private WebElement elementMenuRecieverName;
+
+    @FindBy(how = How.XPATH, using = "//button[@id='ReceiverNewContact']/div[contains(text(),'New Contact')]")
+    private WebElement elementbuttonNewContactReceiverContact;
+
+    @FindBy(how= How.XPATH, using = "//button[@id='save_receivercontactaddedit']/div[contains(text(),' Save')]")
+    private WebElement elementbuttonSaveNewConntact;
+
+    @FindBy(how = How.XPATH, using = "//button[@id='cancel_receivercontactaddedit']/div[contains(text(),' Cancel')]")
+    private WebElement elementbuttonCancelNewContact;
 
     //Step fourth
     @FindBy(how = How.XPATH, using = "//div[@id='stepValue']")
@@ -188,9 +229,69 @@ public class PageConsinment extends BasePage {
         webDriverWait.until(ExpectedConditions.elementToBeClickable(elementMenuCommodity));
     }
 
+    public void clickOnSecondStepper() {
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementMenuSecondStepper));
+        elementMenuSecondStepper.click();
+
+    }
+
+    public void validateResetButton(){
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementButtonReset));
+        elementButtonReset.click();
+
+
+    }
+    public void clickOnSenderName(String txt) {
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elemnentFieldSenderName));
+        elemnentFieldSenderName.sendKeys(txt);
+        webDriverWait.until(ExpectedConditions.visibilityOf(elemnentFieldSenderName));
+        elemnentFieldSenderName.click();
+
+    }
+    public void SelectMenuSenderName(){
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementMenuSenderName));
+
+        elementMenuSenderName.click();
+   }
+
+   public void clickOnButtonNewContact(){
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonNewContact));
+   elementbuttonNewContact.click();
+   }
+
+   public void clickOnCancelButton(){
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementbuttonCancel));
+       elementbuttonCancel.click();
+
+
+   }
+
+   public void clickOnbuttonEditContact(){
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonEditContact));
+       elementbuttonEditContact.click();
+
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementbuttonSAVE));
+       elementbuttonSAVE.click();
+
+       webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonCancelEditContact));
+       elementbuttonCancelEditContact.click();
+   }
+
     public void clickOnStepReciever() {
         webDriverWait.until(ExpectedConditions.visibilityOf(elementThirdStepReciever));
         elementThirdStepReciever.click();
+    }
+
+    public void clickOnbuttonNewReceiver(){
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementbuttonNewReceiver));
+        elementbuttonNewReceiver.click();
+
+    }
+
+    public void clickonCancelbuttonNewCustomer(){
+        webDriverWait.until(ExpectedConditions.visibilityOf(elementbuttonCancelNewReceiverDetails));
+        elementbuttonCancelNewReceiverDetails.click();
+
     }
 
     public void entertxtRecieverName(String txt) {
@@ -202,6 +303,25 @@ public class PageConsinment extends BasePage {
     public void selectMenuRecieverName() {
         elementMenuRecieverName.click();
     }
+
+    public void clickOnbuttonNewContactReceiverContact(){
+
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonNewContactReceiverContact));
+        elementbuttonNewContactReceiverContact.click();
+
+    }
+
+    public void clickonSavebuttonNewContact(){
+
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonSaveNewConntact));
+        elementbuttonSaveNewConntact.click();
+
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonCancelNewContact));
+        elementbuttonCancelNewContact.click();
+
+    }
+
+
 
     public void clickOnStepValue() {
         webDriverWait.until(ExpectedConditions.elementToBeClickable(elementStepValue));

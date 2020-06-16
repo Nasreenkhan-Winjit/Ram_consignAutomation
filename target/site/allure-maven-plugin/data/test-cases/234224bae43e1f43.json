@@ -1,0 +1,223 @@
+{
+  "uid" : "234224bae43e1f43",
+  "name" : "selectMenufromSenderName",
+  "fullName" : "pages.TestPageConsinment.selectMenufromSenderName",
+  "historyId" : "a3d3c74bad2b709d6d87057ec738401d",
+  "time" : {
+    "start" : 1592300576181,
+    "stop" : 1592300581444,
+    "duration" : 5263
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592300447873,
+      "stop" : 1592300465941,
+      "duration" : 18068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearBrowser",
+    "time" : {
+      "start" : 1592300753788,
+      "stop" : 1592300755058,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectMenufromSenderName"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "6332@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "69112b5b16f332d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299852775,
+        "stop" : 1592299858403,
+        "duration" : 5628
+      }
+    }, {
+      "uid" : "3aa67a6472c96726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299408444,
+        "stop" : 1592299413676,
+        "duration" : 5232
+      }
+    }, {
+      "uid" : "9ddb35a25380b110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299025144,
+        "stop" : 1592299030796,
+        "duration" : 5652
+      }
+    }, {
+      "uid" : "2398fe4933c4ae13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592298403844,
+        "stop" : 1592298409070,
+        "duration" : 5226
+      }
+    }, {
+      "uid" : "e05eb45b8c8d64bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227423685,
+        "stop" : 1592227428923,
+        "duration" : 5238
+      }
+    }, {
+      "uid" : "bd76921de604295f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226875897,
+        "stop" : 1592226881129,
+        "duration" : 5232
+      }
+    }, {
+      "uid" : "92d93c49bb151e01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226421941,
+        "stop" : 1592226427521,
+        "duration" : 5580
+      }
+    }, {
+      "uid" : "be1d85f7737d164d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226021398,
+        "stop" : 1592226026683,
+        "duration" : 5285
+      }
+    }, {
+      "uid" : "9d640b2d2b0bdf7a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1592225814429,
+        "stop" : 1592225814441,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "3d92b5338d5a7e8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223663243,
+        "stop" : 1592223668566,
+        "duration" : 5323
+      }
+    }, {
+      "uid" : "31098d9bee8cc977",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223484580,
+        "stop" : 1592223490189,
+        "duration" : 5609
+      }
+    }, {
+      "uid" : "6f6f03cbd5a07714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592222099103,
+        "stop" : 1592222104701,
+        "duration" : 5598
+      }
+    }, {
+      "uid" : "561174927c38c315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221861687,
+        "stop" : 1592221867308,
+        "duration" : 5621
+      }
+    }, {
+      "uid" : "94a31cb09b1cd760",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221661213,
+        "stop" : 1592221661869,
+        "duration" : 656
+      }
+    }, {
+      "uid" : "e5014b0cb6de8664",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592220471059,
+        "stop" : 1592220471712,
+        "duration" : 653
+      }
+    }, {
+      "uid" : "e6df4488dc80deaf",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.xpath: //div[contains(text(),'CELL C - COMPANY OWNED STORES, CELL C, 084 174 4000')]' (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1592219924635,
+        "stop" : 1592220004890,
+        "duration" : 80255
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "234224bae43e1f43.json",
+  "parameterValues" : [ ]
+}

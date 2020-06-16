@@ -1,0 +1,81 @@
+{
+  "uid" : "f91912578c5c8768",
+  "name" : "clickOnSecondStepper",
+  "fullName" : "pages.TestPageConsinment.clickOnSecondStepper",
+  "historyId" : "707ba75bfde823a0cb8e81622b0ca6c9",
+  "time" : {
+    "start" : 1592299835349,
+    "stop" : 1592299841024,
+    "duration" : 5675
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a892971aa771c0b3",
+      "name" : "clickOnSecondStepper passed and screenshot taken!",
+      "source" : "a892971aa771c0b3.txt",
+      "type" : "text/plain",
+      "size" : 49
+    }, {
+      "uid" : "e78fea9a89fb7dd9",
+      "name" : "clickOnSecondStepper",
+      "source" : "e78fea9a89fb7dd9.png",
+      "type" : "image/png",
+      "size" : 53396
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnSecondStepper"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "3568@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f91912578c5c8768.json",
+  "parameterValues" : [ ]
+}

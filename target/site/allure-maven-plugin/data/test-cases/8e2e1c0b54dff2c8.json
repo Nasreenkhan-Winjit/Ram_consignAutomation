@@ -1,0 +1,81 @@
+{
+  "uid" : "8e2e1c0b54dff2c8",
+  "name" : "validateButtonNewContact",
+  "fullName" : "pages.TestPageConsinment.validateButtonNewContact",
+  "historyId" : "3db21e25fe129a1ff96867b0805dfc93",
+  "time" : {
+    "start" : 1592299858415,
+    "stop" : 1592299869505,
+    "duration" : 11090
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "96de73d57d6ee20b",
+      "name" : "validateButtonNewContact passed and screenshot taken!",
+      "source" : "96de73d57d6ee20b.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "ed247d5c5d0d0b95",
+      "name" : "validateButtonNewContact",
+      "source" : "ed247d5c5d0d0b95.png",
+      "type" : "image/png",
+      "size" : 53389
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateButtonNewContact"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "3568@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e2e1c0b54dff2c8.json",
+  "parameterValues" : [ ]
+}

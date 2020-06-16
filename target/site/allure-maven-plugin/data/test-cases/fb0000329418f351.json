@@ -1,0 +1,81 @@
+{
+  "uid" : "fb0000329418f351",
+  "name" : "selectCommudityJwellery",
+  "fullName" : "pages.TestPageConsinment.selectCommudityJwellery",
+  "historyId" : "fa2fcae21aaf31da5e1efcc4aad85e91",
+  "time" : {
+    "start" : 1592221837401,
+    "stop" : 1592221844383,
+    "duration" : 6982
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7004063f4cb505c6",
+      "name" : "selectCommudityJwellery passed and screenshot taken!",
+      "source" : "7004063f4cb505c6.txt",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "f6e42ec6048bc929",
+      "name" : "selectCommudityJwellery",
+      "source" : "f6e42ec6048bc929.png",
+      "type" : "image/png",
+      "size" : 38106
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectCommudityJwellery"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "15276@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb0000329418f351.json",
+  "parameterValues" : [ ]
+}

@@ -48,6 +48,7 @@ public class TestPageConsinment extends TestBase {
         Thread.sleep(5000);
 
     }
+
     @Test(priority = 2)
     public void selectCommudityJwellery() throws InterruptedException {
 
@@ -56,10 +57,67 @@ public class TestPageConsinment extends TestBase {
     }
 
     @Test(priority = 3)
+    public void clickOnSecondStepper() throws InterruptedException {
+
+        pageConsinment.clickOnSecondStepper();
+        Thread.sleep(5000);
+    }
+
+    @Test(priority = 4)
+    public void clickOnResetButton() throws InterruptedException {
+        pageConsinment.validateResetButton();
+        Thread.sleep(5000);
+    }
+    @Test(priority = 5)
+    public void clickOnSenderName() throws InterruptedException {
+        pageConsinment.clickOnSenderName("CELL");
+        Thread.sleep(5000);
+    }
+    @Test(priority = 6)
+    public void selectMenufromSenderName() throws InterruptedException {
+        pageConsinment.SelectMenuSenderName();
+        Thread.sleep(5000);
+    }
+    @Test(priority= 7)
+    public void validateButtonNewContact() throws InterruptedException {
+        pageConsinment.clickOnButtonNewContact();
+        Thread.sleep(5000);
+        pageConsinment.clickOnCancelButton();
+        Thread.sleep(5000);
+
+    }
+
+    @Test(priority = 8)
+    public void clickOnbuttonEditContact() throws InterruptedException {
+        pageConsinment.clickOnbuttonEditContact();
+        Thread.sleep(5000);
+    }
+
+
+    @Test(priority=9)
+    public void clickOnbuttonNewReceiver() throws InterruptedException {
+        pageConsinment.clickOnStepReciever();
+        Thread.sleep(5000);
+        pageConsinment.entertxtRecieverName("s");
+        Thread.sleep(5000);
+        pageConsinment.clickOnbuttonNewReceiver();
+        Thread.sleep(5000);
+
+    }
+
+    @Test(priority = 10)
+    public void clickonCancelbuttonNewCustomer() throws InterruptedException {
+        pageConsinment.clickonCancelbuttonNewCustomer();
+        Thread.sleep(5000);
+
+    }
+
+
+    @Test(priority = 11)
     public void thirdStepReciever() throws InterruptedException {
             //(Map<String, String> testDataSet) throws InterruptedException {
 
-        pageConsinment.clickOnStepReciever();
+       // pageConsinment.clickOnStepReciever();
 
      Thread.sleep(20000);
         //pageConsinment.entertxtRecieverName(testDataSet.get("Receivers Name"));
@@ -70,7 +128,17 @@ public class TestPageConsinment extends TestBase {
         Thread.sleep(10000);
     }
 
-    @Test(priority = 4)
+    @Test(priority = 12)
+    public void clickonbuttonNewContactReceiverContact() throws InterruptedException {
+        pageConsinment.clickOnbuttonNewContactReceiverContact();
+        Thread.sleep(4000);
+        pageConsinment.clickonSavebuttonNewContact();
+        Thread.sleep(3000);
+
+
+    }
+
+    @Test(priority = 12)
     public void clickOnStepValue() throws InterruptedException {
       pageConsinment.clickOnStepValue();
         Thread.sleep(10000);
@@ -81,7 +149,7 @@ public class TestPageConsinment extends TestBase {
 
     }
 
-      @Test(priority = 5)
+      @Test(priority = 13)
     public  void clickOnStepRequirement() throws InterruptedException {
         pageConsinment.clickOnStepRequirement();
 
@@ -97,26 +165,26 @@ public class TestPageConsinment extends TestBase {
 
       }
 
-        @Test(priority = 6)
+        @Test(priority = 14)
     public void clickOnStepServices() throws InterruptedException {
         pageConsinment.clickonstepServices();
 
         Thread.sleep(6000);
         }
-      @Test(priority = 7)
+      @Test(priority = 15)
     public void clickonstepParcel() throws InterruptedException {
     //Thread.sleep(6000);
         pageConsinment.clickonStepParcel();
     Thread.sleep(6000);
 }
-     @Test(priority = 8)
+     @Test(priority = 16)
     public void entertxtNumberOfParcel() throws InterruptedException {
         pageConsinment.entertxtNumberOfParcel("1");
          Thread.sleep(8000);
 
      }
 
-        @Test(priority = 9)
+        @Test(priority = 17)
     public void entertxtSecuritypack() throws InterruptedException {
        pageConsinment.clickOnSecurityPack("SP12345678");
 
@@ -128,7 +196,7 @@ public class TestPageConsinment extends TestBase {
 
         }
 
-        @Test(priority = 10 )
+        @Test(priority = 18 )
     public void clickONFinaliseButton() throws InterruptedException {
         pageConsinment.clickOnFinaliseConsignment();
             Thread.sleep(8000);

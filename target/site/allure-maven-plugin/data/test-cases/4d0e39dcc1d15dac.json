@@ -1,0 +1,246 @@
+{
+  "uid" : "4d0e39dcc1d15dac",
+  "name" : "clickOnSecondStepper",
+  "fullName" : "pages.TestPageConsinment.clickOnSecondStepper",
+  "historyId" : "707ba75bfde823a0cb8e81622b0ca6c9",
+  "time" : {
+    "start" : 1592300558713,
+    "stop" : 1592300563992,
+    "duration" : 5279
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592300447873,
+      "stop" : 1592300465941,
+      "duration" : 18068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearBrowser",
+    "time" : {
+      "start" : 1592300753788,
+      "stop" : 1592300755058,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnSecondStepper"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "6332@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f91912578c5c8768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299835349,
+        "stop" : 1592299841024,
+        "duration" : 5675
+      }
+    }, {
+      "uid" : "eccb131ad87f740d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299390923,
+        "stop" : 1592299396239,
+        "duration" : 5316
+      }
+    }, {
+      "uid" : "52ce50c34fbe9a1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592299007613,
+        "stop" : 1592299013303,
+        "duration" : 5690
+      }
+    }, {
+      "uid" : "363ff0d7bc9e9197",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592298386359,
+        "stop" : 1592298391671,
+        "duration" : 5312
+      }
+    }, {
+      "uid" : "2d497bba6427cf81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592227406258,
+        "stop" : 1592227411536,
+        "duration" : 5278
+      }
+    }, {
+      "uid" : "943f39bf5ba6e6f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226858504,
+        "stop" : 1592226863777,
+        "duration" : 5273
+      }
+    }, {
+      "uid" : "a6e8bb4d1392f49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226404704,
+        "stop" : 1592226410332,
+        "duration" : 5628
+      }
+    }, {
+      "uid" : "66fc16aad3dd571b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592226004145,
+        "stop" : 1592226009402,
+        "duration" : 5257
+      }
+    }, {
+      "uid" : "4b81c5afc15217cc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1592225814379,
+        "stop" : 1592225814385,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "9ccbf989963be631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223645744,
+        "stop" : 1592223651026,
+        "duration" : 5282
+      }
+    }, {
+      "uid" : "49cd4ead36c73a73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592223467399,
+        "stop" : 1592223473032,
+        "duration" : 5633
+      }
+    }, {
+      "uid" : "8411f3e522b4efb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592222081601,
+        "stop" : 1592222087321,
+        "duration" : 5720
+      }
+    }, {
+      "uid" : "67db9bdc6e71be11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221844421,
+        "stop" : 1592221850071,
+        "duration" : 5650
+      }
+    }, {
+      "uid" : "cce3fbe8b0b53db8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592221643853,
+        "stop" : 1592221649574,
+        "duration" : 5721
+      }
+    }, {
+      "uid" : "f1f660e42f9af2ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592220453700,
+        "stop" : 1592220459380,
+        "duration" : 5680
+      }
+    }, {
+      "uid" : "b7e53aca7ccd66ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592219907488,
+        "stop" : 1592219912769,
+        "duration" : 5281
+      }
+    }, {
+      "uid" : "1fdc08492956eccc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592219297492,
+        "stop" : 1592219303149,
+        "duration" : 5657
+      }
+    }, {
+      "uid" : "1a8ffb6a250d6a95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592219056678,
+        "stop" : 1592219057400,
+        "duration" : 722
+      }
+    }, {
+      "uid" : "69f511631574cf41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592217548719,
+        "stop" : 1592217549437,
+        "duration" : 718
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d0e39dcc1d15dac.json",
+  "parameterValues" : [ ]
+}

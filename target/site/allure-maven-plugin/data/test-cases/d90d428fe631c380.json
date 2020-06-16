@@ -1,0 +1,81 @@
+{
+  "uid" : "d90d428fe631c380",
+  "name" : "thirdStepReciever",
+  "fullName" : "pages.TestPageConsinment.thirdStepReciever",
+  "historyId" : "68f5ca7ba79a2286177c291d470b2603",
+  "time" : {
+    "start" : 1592226521852,
+    "stop" : 1592226561726,
+    "duration" : 39874
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f78fcaacf65346f",
+      "name" : "thirdStepReciever passed and screenshot taken!",
+      "source" : "9f78fcaacf65346f.txt",
+      "type" : "text/plain",
+      "size" : 46
+    }, {
+      "uid" : "15ba4cdae2182052",
+      "name" : "thirdStepReciever",
+      "source" : "15ba4cdae2182052.png",
+      "type" : "image/png",
+      "size" : 55706
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testClass",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "testMethod",
+    "value" : "thirdStepReciever"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Valid Login Scenario"
+  }, {
+    "name" : "suite",
+    "value" : "Check login and logout successfully"
+  }, {
+    "name" : "subSuite",
+    "value" : "pages.TestPageConsinment"
+  }, {
+    "name" : "host",
+    "value" : "WJLP-1098"
+  }, {
+    "name" : "thread",
+    "value" : "5596@WJLP-1098.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d90d428fe631c380.json",
+  "parameterValues" : [ ]
+}
