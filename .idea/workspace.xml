@@ -5,34 +5,50 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d38d2295-1d7b-4120-aca9-c665e020e0ea" name="Default Changelist" comment="commentedOnPOM1 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/2cfc8806-b654-4a9d-97d4-1e16bafa7440-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/2cfe108e-66b2-4121-b00d-374fe6d9e33a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/5e3df420-9e87-4b1d-85d8-6eabbad147fc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/762d8adf-d20c-43ad-b1ef-183b9aa969ae-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/93805e07-0f77-4978-83a4-e44c14181e9d-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/94da8881-7576-4847-b16e-da8a59929da4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/db13745d-b06a-4396-9fcc-f8a6915acc89-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-16T19-42-47_554.dumpstream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+    <list default="true" id="d38d2295-1d7b-4120-aca9-c665e020e0ea" name="Default Changelist" comment="commentedOnPOM3 commit">
+      <change afterPath="$PROJECT_DIR$/LogDetails/.log.2020-06-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0295437d-f04a-43ad-a2ff-4b2286215c63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0ae90310-be1b-46a8-a798-8906ea16d911-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0cbb6d77-9b6d-44d5-9fd1-1aecf3625bf8-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/18fce181-2887-452f-8161-34edf5a510c7-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/2170f03c-b0a1-4e8e-91ca-0693e2c0f249-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/22e551a0-5ebf-4ef0-a06e-343ac655d326-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/253570a0-3837-4b83-9708-d0a3fca26cec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/448dc176-a4b0-49b6-8489-413496fdba72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/45fb104f-f1d0-48f0-b993-8765bb9d4910-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/46619579-7348-4a39-94f4-070a4a6e6e80-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/47d81972-3fe9-4ec7-9856-0c6efda315a6-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/4ee34d29-77dd-4e62-af9e-208ab0e755f2-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/542bac7f-52cb-4fde-989c-c4236f2b5362-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/5adf28e0-9ce1-4301-9367-fb999647d1f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/6720b78f-fad0-43ed-bcfa-1d744bec3646-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/748c517b-41ec-4f40-b167-66b0c5054c46-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/74fd7995-cbea-4439-ae75-df4fdee12a85-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/7aa065e9-2c28-4246-ac03-c7341a2ca570-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/7cdbc713-dc7b-40e2-b20a-052889e27d56-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/7cfa5802-b1e6-4f50-a70a-d50b5b81b39d-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/91b9a9e5-c7ed-4144-b003-894f69a60995-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/98827c17-2421-4d23-9ea9-6502a505bcc6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/9aab05a1-8a0c-4e35-b28d-71a28cf810cb-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/9f2bc291-c72f-4419-97ea-ffad1935e9a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/a8e587aa-e9e1-4814-b4c9-dc31c17b2cb6-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/ae9e3171-fd11-46c9-b957-9b49553e54d9-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/af44dae0-1cbe-4c38-ad67-9c6e51745457-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c1921dda-907e-4331-902a-9a7160354e02-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c9f4c0eb-cf5b-4d6b-a3b5-38f0b9176aa4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/d4ecd695-c62c-4da4-97cc-c46891c09a1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e0f8384a-0ab5-4895-b496-9d5ad74d8d92-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e10036eb-8207-49d1-9cad-3144ed8d602e-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e36324ab-b46b-4fb1-8040-82ac2c2ea77f-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e37f4c09-eb86-494e-b8a6-5227b945010a-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/e9c860ab-22ef-42a1-9e05-7961d4f8ca43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/ea04157c-6abe-4c7f-82d7-8885824fa848-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/eafea155-717b-40aa-96ac-8e5a4010960b-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-06-17T11-15-58_403.dumpstream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataFiles/excel/Login/LoginDetails.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataFiles/excel/Login/LoginDetails.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LogDetails/.log" beforeDir="false" afterPath="$PROJECT_DIR$/LogDetails/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumTestJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumTestJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/environment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/browsers/browserType/ChromeBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/browsers/browserType/ChromeBrowser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/PageConsinment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PageConsinment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/environment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TestPageConsinment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/TestPageConsinment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/environment.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592315136416</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commentedOnPOM2 commit">
+      <created>1592371901279</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592371901279</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +294,9 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="commentedOnPOM commit" />
     <MESSAGE value="commentedOnPOM1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commentedOnPOM1 commit" />
+    <MESSAGE value="commentedOnPOM2 commit" />
+    <MESSAGE value="commentedOnPOM3 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commentedOnPOM3 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="227" key="#Notifications" timestamp="1591009265950">
@@ -290,22 +315,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591010769328" />
-    <state width="1367" height="64" key="GridCell.Tab.0.bottom" timestamp="1592316744235">
+    <state width="1367" height="122" key="GridCell.Tab.0.bottom" timestamp="1592373320595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="64" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592316744235" />
-    <state width="1367" height="64" key="GridCell.Tab.0.center" timestamp="1592316744235">
+    <state width="1367" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592373320595" />
+    <state width="1367" height="122" key="GridCell.Tab.0.center" timestamp="1592373320595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="64" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592316744235" />
-    <state width="1367" height="64" key="GridCell.Tab.0.left" timestamp="1592316744235">
+    <state width="1367" height="122" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592373320595" />
+    <state width="1367" height="122" key="GridCell.Tab.0.left" timestamp="1592373320594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="64" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592316744235" />
-    <state width="1367" height="64" key="GridCell.Tab.0.right" timestamp="1592316744235">
+    <state width="1367" height="122" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592373320594" />
+    <state width="1367" height="122" key="GridCell.Tab.0.right" timestamp="1592373320595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="64" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592316744235" />
+    <state width="1367" height="122" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592373320595" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590571818058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -326,10 +351,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592314937076" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592315146632">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592371925434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592315146632" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592371925434" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590481185213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
