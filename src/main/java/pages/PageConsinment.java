@@ -155,6 +155,19 @@ public class PageConsinment extends BasePage {
     @FindBy(how= How.XPATH, using = "//div[@role='listitem']//div[contains(text(),'Wednesday')]")
     private WebElement elementMenuNonDeliverableDays;
 
+// special instructions
+@CacheLookup
+    @FindBy(how = How.XPATH, using = "//button[@id='AddAnotherInstruction']")
+    private WebElement elementbuttonAddAnotherInstruction;
+
+    @FindBy(how = How.XPATH,using = "//div[@class='v-select__slot']//input[@id='StandardInstructionType5']")
+    private WebElement elementsecondStandardInstructionType5;
+
+
+
+
+
+
     //Step sixth
 
     @FindBy(how=How.XPATH, using = "//div[@id='stepServices']")
@@ -175,7 +188,7 @@ public class PageConsinment extends BasePage {
 
 
 // Step Seven fill the details
-
+@CacheLookup
     @FindBy(how=How.XPATH,using = "//input[@id='ParcelSecurityPack001']")
     private WebElement elementSecurityPack;
 
@@ -194,6 +207,17 @@ public class PageConsinment extends BasePage {
 
     @FindBy(how=How.XPATH,using = "//div[@class='v-dialog v-dialog--active']//div[@class='v-btn__content'][contains(text(),'Close')]")
     private WebElement elementPopUpClose;
+
+    // Select Parcel 2 and validate delete function
+
+    @FindBy(how=How.XPATH, using="//div[@class='parcelContent']//div[2]//div[11]")
+    private WebElement elementdeleteicon;
+
+
+
+
+
+
 
     //    public void enterTxtConsignmentID(String txt,Keys keys) {
     public void enterTxtConsignmentID(String txt) {
@@ -344,6 +368,8 @@ public class PageConsinment extends BasePage {
     }
     public void entertxtShipperReference(String txt){
         webDriverWait.until(ExpectedConditions.visibilityOf(elementtxtShipperReference));
+        elementtxtShipperReference.sendKeys(txt,Keys.ENTER);
+        elementtxtShipperReference.clear();
         elementtxtShipperReference.sendKeys(txt);
     }
 
@@ -365,6 +391,18 @@ public class PageConsinment extends BasePage {
            elementNonDeliverableDates.click();
            elementMenuNonDeliverableDays.click();
 
+       }
+
+       public void clickOnAddAnotherInstruction(){
+           //WebDriverWait webDriverWait = new WebDriverWait(driver,30);
+
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(elementbuttonAddAnotherInstruction));
+           elementbuttonAddAnotherInstruction.click();
+
+          // WebDriverWait webDriverWait = new WebDriverWait(driver,30);
+
+           webDriverWait.until(ExpectedConditions.elementToBeClickable(elementsecondStandardInstructionType5));
+           elementsecondStandardInstructionType5.click();
        }
 
         public void clickonstepServices(){
@@ -414,6 +452,15 @@ public class PageConsinment extends BasePage {
             driver.navigate().refresh();
 
         }
+
+        public void clickOnDeleteIcon(){
+       // webDriverWait.until(ExpectedConditions.elementToBeClickable(elementdeleteicon));
+            actions.moveToElement(elementdeleteicon).build().perform();
+            elementdeleteicon.click();
+
+        }
+
+
 
         public void clickoncommudity(){
         webDriverWait.until(ExpectedConditions.elementToBeClickable(elementcommudity));

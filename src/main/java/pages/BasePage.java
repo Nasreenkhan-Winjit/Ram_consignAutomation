@@ -1,5 +1,6 @@
 package pages;
 
+import com.google.inject.internal.cglib.core.internal.$Function;
 import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,6 +8,8 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.util.Random;
 
 public class BasePage {
     protected WebDriver driver;
@@ -30,6 +33,8 @@ public class BasePage {
         webElement.sendKeys(inputTxt);
         return webElement;
     }
+
+
 
 
 }

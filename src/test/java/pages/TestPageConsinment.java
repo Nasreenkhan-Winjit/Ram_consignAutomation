@@ -138,7 +138,7 @@ public class TestPageConsinment extends TestBase {
 
     }
 
-    @Test(priority = 12)
+    @Test(priority = 13)
     public void clickOnStepValue() throws InterruptedException {
       pageConsinment.clickOnStepValue();
         Thread.sleep(10000);
@@ -149,42 +149,62 @@ public class TestPageConsinment extends TestBase {
 
     }
 
-      @Test(priority = 13)
+      @Test(priority = 14)
     public  void clickOnStepRequirement() throws InterruptedException {
         pageConsinment.clickOnStepRequirement();
+        Thread.sleep(4000);
+        pageConsinment.entertxtShipperReference("aaaaa");
+        Thread.sleep(5000);
 
          pageConsinment.entertxtShipperReference("qqqqqqq");
 //Thread.sleep(10000);
          pageConsinment.clickOnDropdownProofOfDelivery(Keys.TAB);
 
-         pageConsinment.ClickonDropDownStandardInstructionType();
+          Thread.sleep(9000);
+          pageConsinment.ClickonDropDownStandardInstructionType();
           Thread.sleep(5000);
           pageConsinment.clickonDropdownNonDeliverablesDays();
 
-          Thread.sleep(8000);
+          Thread.sleep(9000);
+//        pageConsinment.clickOnAddAnotherInstruction();
+//          Thread.sleep(9000);
+
 
       }
 
-        @Test(priority = 14)
+      @Test(priority = 15)
+      public void clickOnbuttonAddAnotherInstruction() throws InterruptedException {
+
+        pageConsinment.clickOnAddAnotherInstruction();
+          Thread.sleep(8000);
+      }
+
+        @Test(priority = 16)
     public void clickOnStepServices() throws InterruptedException {
         pageConsinment.clickonstepServices();
 
         Thread.sleep(6000);
         }
-      @Test(priority = 15)
+
+
+      @Test(priority = 17)
     public void clickonstepParcel() throws InterruptedException {
     //Thread.sleep(6000);
         pageConsinment.clickonStepParcel();
     Thread.sleep(6000);
 }
-     @Test(priority = 16)
+     @Test(priority = 18)
     public void entertxtNumberOfParcel() throws InterruptedException {
-        pageConsinment.entertxtNumberOfParcel("1");
+        pageConsinment.entertxtNumberOfParcel("2");
          Thread.sleep(8000);
 
      }
-
-        @Test(priority = 17)
+    @Test(priority=19)
+    public void clickOnDeleteicon() throws InterruptedException {
+        pageConsinment.clickOnDeleteIcon();
+        Thread.sleep(5000);
+    }
+        @Test(priority = 20)
     public void entertxtSecuritypack() throws InterruptedException {
        pageConsinment.clickOnSecurityPack("SP12345678");
 
@@ -196,12 +216,13 @@ public class TestPageConsinment extends TestBase {
 
         }
 
-        @Test(priority = 18 )
+        @Test(priority = 21 )
     public void clickONFinaliseButton() throws InterruptedException {
         pageConsinment.clickOnFinaliseConsignment();
             Thread.sleep(8000);
             waitForLoad(eventFiringWebDriver);
 
+            webDriver.navigate().refresh();
         }
 
 //git change
@@ -211,27 +232,34 @@ public class TestPageConsinment extends TestBase {
     //Second scenerio Negative Test Cases.
 
 
-//    @Test(dataProviderClass = DataProviderList.class, dataProvider = "consignment",priority = 9 )
-//        public void validateConsignmentAlreadyexist(Map<String, String> testDataSet) throws InterruptedException {
-//
-//
-//        pageDashBoard = new PageDashBoard(eventFiringWebDriver);
-//        waitForLoad(eventFiringWebDriver);
-//        pageDashBoard.clickOnNavBar();
-//        pageDashBoard.clickOnConsignViaAccordion();
-//
-//        ArrayList<String> tabsCount = new ArrayList<>(eventFiringWebDriver.getWindowHandles());
-//        eventFiringWebDriver.switchTo().window(tabsCount.get(1));
-//
-//        pageConsinment = new PageConsinment(eventFiringWebDriver);
-//
-//        pageConsinment.enterTxtConsignmentID(testDataSet.get("ConsignmentID"));
-//        Thread.sleep(8000);
-//       //pageConsinment.validateToasterlreadyCosigned();
-//
-//
-//
-//        }
+    @Test(dataProviderClass = DataProviderList.class, dataProvider = "consignment",priority = 22)
+    public void doStartedagain(Map<String, String> testDataSet) throws InterruptedException {
+
+        pageDashBoard = new PageDashBoard(eventFiringWebDriver);
+        waitForLoad(eventFiringWebDriver);
+        pageDashBoard.clickOnNavBar();
+        pageDashBoard.clickOnConsignViaAccordion();
+
+        ArrayList<String> tabsCount = new ArrayList<>(eventFiringWebDriver.getWindowHandles());
+        eventFiringWebDriver.switchTo().window(tabsCount.get(1));
+
+        pageConsinment = new PageConsinment(eventFiringWebDriver);
+
+//        pageConsinment.enterTxtConsignmentID("UAT31230911");
+//        Thread.sleep(10000);
+
+        pageConsinment.enterTxtConsignmentID(testDataSet.get("ConsignmentID"));
+        Thread.sleep(8000);
+
+        pageConsinment.enterTxtBilledTo(testDataSet.get("BilledTo"));
+        pageConsinment.selectMenuBilledTo();
+        Thread.sleep(20000);
+        webDriver.close();
+    }
+
+
+
+
 //
 //        @Test(dataProviderClass = DataProviderList.class, dataProvider = "ConsignmentNegData",priority = 10)
 //        public void multipleCommudityTest(Map<String, String> testDataSet) throws InterruptedException {

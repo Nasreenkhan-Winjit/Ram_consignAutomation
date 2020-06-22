@@ -1,0 +1,66 @@
+2020-06-17/11:16:04.223  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/11:16:04.239  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/11:16:05.918  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/11:16:05.961  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/11:16:11.628  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/11:16:14.617  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/16:41:09.614  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/16:41:09.620  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/16:41:11.406  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/16:41:11.465  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/16:41:20.899  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/16:41:23.740  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/16:44:00.910  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/16:44:00.922  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/16:44:01.758  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/16:44:01.800  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/16:44:06.865  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/16:44:09.139  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/16:59:59.688  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/16:59:59.695  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/17:00:00.526  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/17:00:00.574  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/17:00:06.028  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/17:00:08.210  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/17:22:38.641  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/17:22:38.666  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/17:22:40.253  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/17:22:40.322  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/17:22:46.098  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/17:22:48.568  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/18:28:01.242  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/18:28:01.257  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/18:28:02.175  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/18:28:02.216  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/18:28:07.605  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/18:28:09.681  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/18:43:38.872  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/18:43:38.888  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/18:43:39.649  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/18:43:39.669  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/18:43:45.021  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/18:43:45.561  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2020-06-17/18:47:54.713  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/18:47:54.719  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/18:47:55.469  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/18:47:55.497  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/18:48:00.561  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/18:48:02.802  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/23:13:10.303  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/23:13:10.521  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/23:13:13.494  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/23:13:13.638  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/23:13:21.055  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/23:13:23.484  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/23:15:38.947  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/23:15:38.972  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/23:15:39.759  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/23:15:39.796  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/23:15:44.734  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/23:15:46.707  INFO: listener.WebEventListener - After Navigated to URL: https://stazramappuat.z1.web.core.windows.net/
+2020-06-17/23:18:32.418  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-06-17/23:18:32.423  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2020-06-17/23:18:33.156  INFO: wdm.WebDriverManager - Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+2020-06-17/23:18:33.199  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-17/23:18:38.165  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2020-06-17/23:18:38.210  INFO: listener.WebEventListener - After Navigated to URL: data:,

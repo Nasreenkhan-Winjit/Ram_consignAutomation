@@ -1,1 +1,0 @@
-clickOnResetButton passed and screenshot taken!
